@@ -1,0 +1,32 @@
+作业3
+
+
+
+Question 1 : 代码
+    业务：实现 BinarySearch
+    提示：你可能需要自己声明一个新的方法帮助递归。
+    方法签名要求
+    public boolean contains(int[] arr, int value)
+    arr 已排序
+
+Question 2 : 代码
+    业务：实现 QuicksSelect
+    提示：你可能需要自己声明一个新的方法帮助递归。
+    方法签名要求
+    public int getAtRank(int[] arr, int rank)
+
+Question 3 + 4：
+    这俩里至少写一个
+
+Question 3 : 代码
+    业务：实现 QuickSort
+    提示：你可能需要自己声明一个新的方法帮助递归。
+    方法签名要求
+    public void quickSort(int[] arr)
+
+Question 4 : 代码
+    业务：实现 MergeSort
+    提示：你可能需要自己声明一个新的方法帮助递归。
+    方法签名要求
+    public void mergeSort(int[] arr)
+
